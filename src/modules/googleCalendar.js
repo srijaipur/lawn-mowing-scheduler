@@ -1,5 +1,5 @@
 // ⚠️ Replace this with your OAuth 2.0 Client ID from Google Cloud Console
-const CLIENT_ID = '136428508381-csh538be1b0pt8orc0840ig4sulda.apps.googleusercontent.com'
+const CLIENT_ID = '136428508381-csh538be1b0pt8orc0tc0840ig4sulda.apps.googleusercontent.com'                  
 const SCOPE     = 'https://www.googleapis.com/auth/calendar.events'
 
 let tokenClient  = null
